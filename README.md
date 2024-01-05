@@ -11,7 +11,7 @@ Image for Testing:
 4. Prepare an image file for color detection.
 5. Update the image file path in the get_image function accordingly.
 6. Operating System: The code is compatible with various operating systems (Windows, macOS, Linux).
-7. 
+   
 Ensure that your system meets the general requirements for running Python code.
 
 
